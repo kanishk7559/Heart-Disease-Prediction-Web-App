@@ -1,17 +1,23 @@
 # Heart-Disease-Prediction
 
+Live Web-App :- https://hdp-django.herokuapp.com/
+<hr>
 HDP is Machine Learning and Deep Learning based Web Application built using Django that can predict heart diseases. 
 
 Cardiovascular disease is the leading cause of death in the modern society. 
 We use the data mining process as a tool for selection and extraction of necessary information which is then put into various machine learning models.
 
 ##### The main aim of the project to provide users with an interactive interface using which they can predict if they have heart disease or not.
+<hr>
 
 ![Input Form](https://i.ibb.co/23pPDLL/home-page.jpg)
-<br>
+
 ![result 0](https://i.ibb.co/TcpLF7L/output2.jpg)
-<br>
+
 ![result 1](https://i.ibb.co/4THpmZY/output1.jpg)
+
+<hr>
+
 ## Algorithms used are:
 - K-Nearest Neighbours (KNN) ( Accuracy = 92% )
 - Support Vector Machine (SVM) ( Accuracy = 87% )
@@ -19,6 +25,7 @@ We use the data mining process as a tool for selection and extraction of necessa
 - Random Forest Classifier ( Accuracy = 84% )
 - Artificial Neural Networks ( Accuracy = 84% )
 
+<hr>
 
 ## Features (Input Parameters)
 
@@ -48,6 +55,8 @@ We use the data mining process as a tool for selection and extraction of necessa
   * 3 = normal; 
   * 6 = fixed defect; 
   * 7 = reversable defect
+ 
+<hr>
 
 ## Tech
 
@@ -60,6 +69,8 @@ HDP uses a number of open source projects to work properly:
 - [Django](https://www.djangoproject.com/) - Python Web framework
 - [Bootstrap](https://getbootstrap.com/) - great UI boilerplate for modern web apps
 - [Heroku](https://www.heroku.com/) - Deployment
+
+<hr>
 
 ## Installation
 
@@ -80,12 +91,18 @@ To run...
 ```sh
 python manage.py runserver
 ```
+<hr>
+
 ## Dataset 
 https://www.kaggle.com/ronitf/heart-disease-uci
+
+<hr>
 
 ## Contributers 
  * [Nidhi Sabu](https://github.com/blurryface-1)
  * [Kanishk Jamgaonkar](https://github.com/kanishk7559)
+
+<hr>
 
 ## Development
 
