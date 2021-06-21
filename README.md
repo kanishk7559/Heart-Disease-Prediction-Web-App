@@ -63,7 +63,7 @@ We use the data mining process as a tool for selection and extraction of necessa
 HDP uses a number of open source projects to work properly:
 
 - [Python](https://www.python.org/) - programming language
-- [Tensoflow](https://www.tensorflow.org/) - end-to-end open source platform for machine learning.
+- [Tensorflow](https://www.tensorflow.org/) - end-to-end open source platform for machine learning.
 - [scikit-learn](https://scikit-learn.org/) - Machine learning library for the Python programming language
 - [Jupyter Notebook](https://jupyter.org/) - open-source, interactive web tool for computation
 - [Django](https://www.djangoproject.com/) - Python Web framework
