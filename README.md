@@ -1,6 +1,6 @@
-# Heart-Disease-Prediction
+#  <img src ="https://i.ibb.co/7WTBrQ9/kisspng-heart-computer-icons-clip-art-5afac5a8e1d416-434932121526384040925.png" width="3%"> Heart-Disease-Prediction
 
-Live Web-App :- https://hdp-django.herokuapp.com/
+Live Web-App :- https://hdp-django.herokuapp.com
 <hr>
 HDP is Machine Learning and Deep Learning based Web Application built using Django that can predict heart diseases. 
 
