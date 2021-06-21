@@ -1,4 +1,4 @@
-#  <img src ="https://i.ibb.co/7WTBrQ9/kisspng-heart-computer-icons-clip-art-5afac5a8e1d416-434932121526384040925.png" width="3%"> Heart-Disease-Prediction
+# <a href="https://hdp-django.herokuapp.com" ><img src ="https://i.ibb.co/7WTBrQ9/kisspng-heart-computer-icons-clip-art-5afac5a8e1d416-434932121526384040925.png" width="3%"></a> Heart-Disease-Prediction
 
 Live Web-App :- https://hdp-django.herokuapp.com
 <hr>
